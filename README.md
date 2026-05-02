@@ -15,7 +15,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NovaHunter06&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=NovaHunter06&icon=8&color=8)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
