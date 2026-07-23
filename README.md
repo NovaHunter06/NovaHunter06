@@ -1,22 +1,19 @@
 # 👋 Hi, I'm Rohan Das
 
-<img align="right" alt="Cyber Security" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" alt="Cyber Security" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 ## 🚀 About Me
 
 🔐 Open Source Contributor & Cybersecurity Analyst
-
-🎓 Bachelor's Graduate from **University of Engineering & Management (UEM), Kolkata**
 
 🐞 Passionate about:
 - 🔍 Vulnerability Research
 - 🛡️ Application Security
 - 🌐 Bug Bounty Hunting
 - 🤖 Machine Learning
-- 📊 Data Science
 - 💻 Secure Software Development
 
-💡 I enjoy finding security issues in open-source projects, responsibly disclosing vulnerabilities, and contributing security improvements to the community.
+💡 I enjoy finding vulnerabilities in open-source projects, responsibly disclosing vulnerabilities, and contributing security improvements to the community. " There's a saying whenever you need help just call Nova ".
 
 ---
 
@@ -32,7 +29,7 @@
 - 🐛 Vulnerability Research
 - 🔎 Static Code Analysis
 - 🛡️ Secure Code Review
-- 📄 CVE Research
+- 📄 Hall Of Fame - U.S Department of Energy and National Science Foundation , VINCE AND U.S CISA
 - 🚨 Responsible Disclosure
 
 ### ⚙️ Tools
@@ -50,60 +47,17 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- 🤖 Machine Learning
-- 📈 Data Science
-- ☁️ Cloud Security
-- 🔥 AI Security
-- 🛡️ Secure Software Supply Chain
-
----
-
-## 🎯 Current Focus
-
-✅ Open Source Security Audits
-
-✅ Responsible Vulnerability Disclosure
-
-✅ Learning Advanced Exploit Techniques
-
-✅ Contributing to Security-Focused Projects
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10)
-
----
-
 ## 🤝 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: novahunter0605@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
-
-🌍 Portfolio: https://yourwebsite.com
-
-🐙 GitHub: https://github.com/YOUR_USERNAME
+💼 LinkedIn: https://www.linkedin.com/in/rohan-das-2a7452289/
 
 ---
 
 ## 💭 Quote
 
-> 🔐 *"Security is not a product, but a continuous process."*
+> 🔐 *"Might not wanna mess with Nova."*
 
 ---
 
-⭐ **Thanks for visiting my profile! Happy Hacking! 🚀**
