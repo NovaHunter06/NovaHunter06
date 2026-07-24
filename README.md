@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Rohan Das
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=NovaHunter06&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
 </p>
 
