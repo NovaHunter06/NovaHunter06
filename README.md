@@ -1,75 +1,85 @@
-# 👋 Hi, I'm Rohan Das
+````markdown
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
-</p>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
 
-# 🚀 About Me
+# ⚔︎ 「 Rohan Das 」 ⚔︎
 
-🔐 Open Source Contributor & Cybersecurity Analyst
+### 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛 • 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝙰𝚗𝚊𝚕𝚢𝚜𝚝
 
-💻 Passionate about:
+> **「 Whenever you need help... just call Nova. 」**
 
-- 🔍 Vulnerability Research
-- 🛡️ Application Security
-- 🌐 Bug Bounty Hunting
-- 🤖 Machine Learning
-- 📊 Data Science
-- 💻 Secure Software Development
-- ⚡ Open Source Security
-- 🧠 Reverse Engineering
-- 🔥 Exploit Analysis
-- 🚨 Responsible Disclosure
-- 🧪 Security Testing
-- 📡 Threat Intelligence
-- 🕵️ Malware Analysis
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Open+Source+Security;Vulnerability+Researcher;Bug+Bounty+Hunter;Application+Security;Reverse+Engineering;Machine+Learning+Enthusiast"/>
 
-💡 I enjoy discovering vulnerabilities in open-source projects, responsibly disclosing security issues, and helping strengthen software security through meaningful contributions.
-
-> ⚡ **"Whenever you need help... just call Nova."**
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# ✦ 「 About Me 」 ✦
+
+```txt
+> whoami
+
+Name        : Rohan Das
+Alias       : Nova
+Role        : Open Source Contributor
+Focus       : Cybersecurity & Application Security
+Status      : Hunting Bugs 🐞
+```
+
+### ◈ Interests
+
+- ⚔︎ Vulnerability Research
+- 🛡️ Application Security
+- 🐞 Bug Bounty Hunting
+- ⚡ Open Source Security
+- 🧠 Reverse Engineering
+- 🔥 Exploit Analysis
+- 🧪 Fuzz Testing
+- 🤖 Machine Learning
+- 📊 Data Science
+- 💻 Secure Software Development
+
+> *"Every vulnerability fixed makes open source a little stronger."*
+
+---
+
+# ⚙︎ 「 Tech Stack 」 ⚙︎
 
 ## 💻 Languages
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🔐 Security Expertise
+## 🛡️ Security Skills
 
-- 🐛 Vulnerability Research
-- 🔎 Static Code Analysis
-- ⚙️ Dynamic Analysis
-- 🛡️ Secure Code Review
-- 🚨 Responsible Disclosure
-- 🧩 Threat Modeling
-- 🧪 Fuzz Testing
-- 🔥 Exploit Development
-- 🛠️ Binary Analysis
-- 📡 OSINT
-- 🔍 Penetration Testing
-
-### 🏅 Hall of Fame
-
-- 🇺🇸 U.S. Department of Energy ⚡
-- 🇺🇸 U.S. National Science Foundation 🎓
-- 🛡️ U.S. CISA 🦅
-- 🏆 VINCE ⭐
+```text
+▣ Vulnerability Research
+▣ Static Analysis
+▣ Dynamic Analysis
+▣ Secure Code Review
+▣ Threat Modeling
+▣ Responsible Disclosure
+▣ Fuzz Testing
+▣ Exploit Analysis
+▣ Reverse Engineering
+▣ Binary Analysis
+```
 
 ---
 
-## ⚙️ Tools & Technologies
+## ⚡ Tools
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -87,7 +97,24 @@
 
 ---
 
-# 📊 GitHub Stats 📈
+# 🏆 「 Hall of Fame 」 🏆
+
+```
+🇺🇸 U.S. Department of Energy
+🇺🇸 National Science Foundation
+🛡️ U.S. CISA
+🏅 VINCE
+```
+
+### ✦ Contributions
+
+- 🐞 Multiple Responsible Security Disclosures
+- 🔐 Open Source Security Contributor
+- ⚡ Continuous Security Research
+
+---
+
+# 📊 「 GitHub Analytics 」 📊
 
 <p align="center">
 
@@ -105,38 +132,42 @@
 
 ---
 
-# 🏆 Achievements
+# ⚔︎ 「 Current Mission 」 ⚔︎
 
-🏅 Hall of Fame Recognition
-
-- 🇺🇸 U.S. Department of Energy ⚡
-- 🇺🇸 National Science Foundation 🎓
-- 🛡️ U.S. CISA 🦅
-- 🏆 VINCE ⭐
-
-🐞 Multiple Responsible Security Disclosures
-
-🔐 Open Source Security Contributor
-
-💡 Passionate about strengthening open-source security
-
-🚀 Continuous Learning & Research
+```yaml
+status:
+  - Hunting Vulnerabilities
+  - Auditing Open Source Projects
+  - Learning Advanced Exploitation
+  - Exploring AI for Security
+  - Contributing to OSS
+```
 
 ---
 
-# 🎯 Current Focus
+# 🐍 Contribution Graph
 
-- 🔍 Hunting security vulnerabilities
-- 🛠️ Auditing open-source projects
-- 🤝 Contributing to OSS
-- 📚 Learning advanced exploitation
-- 🤖 Exploring AI for cybersecurity
+<p align="center">
+
+<img src="https://github.com/NovaHunter06/NovaHunter06/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
-# 🤝 Connect With Me
+# 🌌 「 Visitor Count 」 🌌
 
-<p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NovaHunter06&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🤝 「 Connect With Me 」 🤝
+
+<p align="center">
 
 <a href="mailto:novahunter0605@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -150,3 +181,24 @@
 
 ---
 
+<div align="center">
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣦⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⠟⠋⠙⢿⣿⣿⣆
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⠃⠀⠀⠀⠀⢻⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⚔︎⠀⠀⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣆⠀⠀⠀⣰⣿⣿⠃
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣶⣶⣿⣿⠟
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁
+```
+
+### **「 Happy Hacking 」**
+
+### `( •̀ ω •́ )✧`
+
+⭐ Thanks for visiting my profile.
+
+</div>
+````
