@@ -100,19 +100,16 @@
 </div>
 
 ###
-<div align="center">
+## 📊 GitHub Stats
 
-<a href="https://github.com/NovaHunter06">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NovaHunter06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=NovaHunter06&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=NovaHunter06&theme=dark&hide_border=false" height="170"/>
+</p>
 
-<a href="https://github.com/NovaHunter06">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaHunter06&layout=compact&langs_count=8&theme=dracula"/>
-</a>
-
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NovaHunter06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+</p>
 <br clear="both">
 
 <div data-importer="image" align="center">
