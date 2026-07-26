@@ -101,8 +101,8 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NovaHunter06/NovaHunter06/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/NovaHunter06/NovaHunter06/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaHunter06&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaHunter06&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 
