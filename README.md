@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm ROHAN</h1>
 <h3 align="center">Open Source Contributor and Security Researcher</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novahunter06&label=Profile%20views&color=0e75b6&style=flat" alt="novahunter06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=novahunter06" alt="novahunter06" /></a> </p>
