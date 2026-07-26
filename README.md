@@ -3,7 +3,6 @@
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="novahunter0605@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -113,7 +112,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="344" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGsxbml6cDJ2bGFqYWF1cGFyN2YyaHFuenIwMWFva2c3NHZxOHl6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u455vzdYHYXvLGw/giphy.gif"  />
+  <img data-importer="image" height="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGsxbml6cDJ2bGFqYWF1cGFyN2YyaHFuenIwMWFva2c3NHZxOHl6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u455vzdYHYXvLGw/giphy.gif"  />
 </div>
 
 ###
