@@ -99,18 +99,6 @@
 </div>
 
 ###
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=NovaHunter06&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=NovaHunter06&theme=dark&hide_border=false" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NovaHunter06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170"/>
-</p>
-<br clear="both">
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGsxbml6cDJ2bGFqYWF1cGFyN2YyaHFuenIwMWFva2c3NHZxOHl6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u455vzdYHYXvLGw/giphy.gif"  />
 </div>
