@@ -100,10 +100,10 @@
 </div>
 
 ###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NovaHunter06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=NovaHunter06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NovaHunter06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NovaHunter06/NovaHunter06/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/NovaHunter06/NovaHunter06/languages-output/languages.svg" height="150" alt="languages graph" />
+</div>
 
 
 <br clear="both">
