@@ -32,3 +32,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novahunter06&" alt="novahunter06" /></p>
 
+# 🏆 Achievements
+
+🏅 Hall of Fame Recognition
+
+- 🇺🇸 U.S. Department of Energy ⚡
+- 🇺🇸 National Science Foundation 🎓
+- 🛡️ U.S. CISA 🦅
+- 🏆 VINCE ⭐
+
+🐞 Multiple Responsible Security Disclosures
+
+🔐 Open Source Security Contributor
+
+💡 Passionate about strengthening open-source security
+
+🚀 Continuous Learning & Research
+
