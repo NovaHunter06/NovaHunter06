@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! I'm a Security Researcher and a Open Source contributor</h2>
+<h2 data-importer="text" align="left">👋!Security Researcher and a Open Source contributor</h2>
 
 ###
 
