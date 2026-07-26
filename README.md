@@ -8,7 +8,7 @@
 
 🔐 Open Source Contributor & Cybersecurity Analyst
 
-🐞 Passionate about:
+💻 Passionate about:
 
 - 🔍 Vulnerability Research
 - 🛡️ Application Security
@@ -19,10 +19,14 @@
 - ⚡ Open Source Security
 - 🧠 Reverse Engineering
 - 🔥 Exploit Analysis
+- 🚨 Responsible Disclosure
+- 🧪 Security Testing
+- 📡 Threat Intelligence
+- 🕵️ Malware Analysis
 
 💡 I enjoy discovering vulnerabilities in open-source projects, responsibly disclosing security issues, and helping strengthen software security through meaningful contributions.
 
-> ⚡ *"Whenever you need help... just call Nova."*
+> ⚡ **"Whenever you need help... just call Nova."**
 
 ---
 
@@ -40,19 +44,26 @@
 
 ---
 
-## 🔐 Security
+## 🔐 Security Expertise
 
 - 🐛 Vulnerability Research
-- 🔎 Static & Dynamic Code Analysis
+- 🔎 Static Code Analysis
+- ⚙️ Dynamic Analysis
 - 🛡️ Secure Code Review
 - 🚨 Responsible Disclosure
 - 🧩 Threat Modeling
-- 🔬 Fuzz Testing
-- 📄 Hall of Fame
-  - 🇺🇸 U.S. Department of Energy
-  - 🇺🇸 U.S. National Science Foundation
-  - 🛡️ U.S. CISA
-  - 🏆 VINCE
+- 🧪 Fuzz Testing
+- 🔥 Exploit Development
+- 🛠️ Binary Analysis
+- 📡 OSINT
+- 🔍 Penetration Testing
+
+### 🏅 Hall of Fame
+
+- 🇺🇸 U.S. Department of Energy ⚡
+- 🇺🇸 U.S. National Science Foundation 🎓
+- 🛡️ U.S. CISA 🦅
+- 🏆 VINCE ⭐
 
 ---
 
@@ -76,7 +87,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats 📈
 
 <p align="center">
 
@@ -98,14 +109,28 @@
 
 🏅 Hall of Fame Recognition
 
-- 🇺🇸 U.S. Department of Energy
-- 🇺🇸 National Science Foundation
-- 🛡️ U.S. CISA
-- 🏆 VINCE
+- 🇺🇸 U.S. Department of Energy ⚡
+- 🇺🇸 National Science Foundation 🎓
+- 🛡️ U.S. CISA 🦅
+- 🏆 VINCE ⭐
 
-🐛 Multiple Responsible Security Disclosures
+🐞 Multiple Responsible Security Disclosures
 
 🔐 Open Source Security Contributor
+
+💡 Passionate about strengthening open-source security
+
+🚀 Continuous Learning & Research
+
+---
+
+# 🎯 Current Focus
+
+- 🔍 Hunting security vulnerabilities
+- 🛠️ Auditing open-source projects
+- 🤝 Contributing to OSS
+- 📚 Learning advanced exploitation
+- 🤖 Exploring AI for cybersecurity
 
 ---
 
@@ -123,14 +148,5 @@
 
 </p>
 
----
-
-# 💭 Favorite Quote
-
-> 🔐 *"Might not wanna mess with Nova."*
-
-<p align="center">
-⚡🐧🛡️💀🔐⚔️🚀👾🕵️‍♂️💻🔥
-</p>
 ---
 
