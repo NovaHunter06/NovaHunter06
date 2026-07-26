@@ -100,18 +100,11 @@
 </div>
 
 ###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NovaHunter06&theme=panda&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=NovaHunter06&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NovaHunter06&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=novahunter06&show_icons=true&locale=en&layout=compact" alt="novahunter06" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NovaHunter06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novahunter06&show_icons=true&locale=en" alt="novahunter06" /></p>
 
----
-[![](https://komarev.com/ghpvc/?username=NovaHunter06&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novahunter06&" alt="novahunter06" /></p>
 
 <br clear="both">
 
