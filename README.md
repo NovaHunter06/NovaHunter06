@@ -2,10 +2,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjF2cDRkMW04dGU1cnljdTUwbXdldXJtOWNlZ3Fyd3hkNnB1ZGQ4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6OrCT1jVbonHG/giphy.gif"  />
-
-###
-
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="novahunter0605@gmail.com" target="_blank">
