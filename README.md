@@ -127,3 +127,17 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NovaHunter06&layout=compact&theme=tokyonight"/>
 </p>
+
+# 🏆 Hall of Fame
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🇺🇸_U.S._Department_of_Energy-Hall_of_Fame-gold?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🇺🇸_National_Science_Foundation-Hall_of_Fame-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🛡️_CISA-Hall_of_Fame-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/⭐_VINCE-Responsible_Disclosure-red?style=for-the-badge"/>
+
+</p>
