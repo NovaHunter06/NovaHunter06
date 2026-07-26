@@ -130,3 +130,12 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaHunter06&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=NovaHunter06&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=NovaHunter06&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NovaHunter06&layout=compact&theme=tokyonight"/>
+</p>
