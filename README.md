@@ -128,16 +128,54 @@
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NovaHunter06&layout=compact&theme=tokyonight"/>
 </p>
 
-# 🏆 Hall of Fame
+<div align="center">
 
-<p align="center">
+## 🏆 Hall of Fame
 
-<img src="https://img.shields.io/badge/🇺🇸_U.S._Department_of_Energy-Hall_of_Fame-gold?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=2500&color=FFD700&center=true&vCenter=true&width=600&lines=Recognized+by+Leading+Organizations;Responsible+Security+Research;Making+Open+Source+Safer"/>
 
-<img src="https://img.shields.io/badge/🇺🇸_National_Science_Foundation-Hall_of_Fame-blue?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="250">
 
-<img src="https://img.shields.io/badge/🛡️_CISA-Hall_of_Fame-success?style=for-the-badge"/>
+### ⚡
+**U.S. Department of Energy**
 
-<img src="https://img.shields.io/badge/⭐_VINCE-Responsible_Disclosure-red?style=for-the-badge"/>
+🏆 Hall of Fame
 
-</p>
+</td>
+
+<td align="center" width="250">
+
+### 🎓
+**National Science Foundation**
+
+🏆 Hall of Fame
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛡️
+**CISA**
+
+🏆 Hall of Fame
+
+</td>
+
+<td align="center">
+
+### ⭐
+**VINCE**
+
+Responsible Disclosure
+
+</td>
+
+</tr>
+</table>
+
+</div>
