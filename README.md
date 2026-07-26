@@ -1,69 +1,57 @@
-###
+<h1 align="center">Hello World! 👋 I'm ROHAN DAS</h1>
 
-## 🏆 Achievements
+<h5 align="center">
+💡 I enjoy discovering vulnerabilities in open-source projects, responsibly disclosing security issues, and helping strengthen software security through meaningful contributions.
 
-- 🛡️ Security Researcher focused on Open Source Security
-- 🔍 Reported multiple security vulnerabilities to open-source projects
-- 🚀 Open Source Contributor across various GitHub repositories
-- 💻 Passionate about Secure Software Development and Vulnerability Research
-- 🌱 Currently exploring AI Security, Cloud Security, and Advanced Exploit Development
+> ⚡ **"Whenever you need help... just call Nova."**
+</h5><br>
 
-###
+<img width="30%" align="right" src="https://in.pinterest.com/pin/802696333578073189/" /><br>
 
-## 📊 GitHub Stats
+<h2 align="left">Some Facts About Me</h2>
 
-<div align="center">
+<h2 align="left">Skillset</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=novahunter06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<h3 align="left">Programming Languages:</h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=novahunter06&theme=tokyonight&hide_border=true)
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='java'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=novahunter06&theme=tokyonight&hide_border=true&layout=compact)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NovaHunter06&show_icons=true&locale=en&layout=compact" />
 
-</div>
+<h3 align="left">AI / ML:</h3>
 
-###
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/tensorflow.svg" width='40' height='40' title='tensorflow'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/pytorch.svg" width='40' height='40' title='pytorch'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/opencv.svg" width='40' height='40' title='opencv'/></p>
 
-## 🏅 GitHub Trophies
+<h3 align="left">Database Management:</h3>
 
-<div align="center">
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/oracle.svg" width='40' height='40' title='oracle'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg" width='40' height='40' title='postgresql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/redis.svg" width='40' height='40' title='redis'/></p>
 
-![](https://github-profile-trophy.vercel.app/?username=novahunter06&theme=tokyonight&no-frame=true&row=1&column=7)
+<h3 align="left">Data Visualization:</h3>
 
-</div>
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/DataVisualization/canvasjs.svg" width='40' height='40' title='canvasjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/DataVisualization/grafana.svg" width='40' height='40' title='grafana'/></p>
 
-###
+<h3 align="left">Devops:</h3>
 
-## 📈 Contribution Graph
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='aws'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/bash.svg" width='40' height='40' title='bash'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/gcp.svg" width='40' height='40' title='gcp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/kubernetes.svg" width='40' height='40' title='kubernetes'/></p>
 
-<div align="center">
+<h3 align="left">Softwares:</h3>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=novahunter06&theme=tokyo-night)
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/illustrator.svg" width='40' height='40' title='illustrator'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/photoshop.svg" width='40' height='40' title='photoshop'/></p>
 
-</div>
+<h3 align="left">Game Engines:</h3>
 
-###
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/GameEngines/unity.svg" width='40' height='40' title='unity'/></p>
 
-## 🟢 Profile Views
+<h3 align="left">Others:</h3>
 
-<div align="center">
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
 
-![](https://komarev.com/ghpvc/?username=novahunter06&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<br><hr><br>
 
-</div>
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=NovaHunter06&show_icons=true&locale=en" />
 
-###
+<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NovaHunter06&" />
 
-## 🎮 Pacman Contribution Graph
+<h2 align="left">Connect with Me</h2>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novahunter06/novahunter06/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novahunter06/novahunter06/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/novahunter06/novahunter06/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
-###
+<p align='left'><a href="https://github.com/NovaHunter06"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/rohan-das-2a7452289/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a><a href="https://www.instagram.com/____rohannn.__/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/instagram.svg" width="40" height='40' title="instagram"/></a></p>
