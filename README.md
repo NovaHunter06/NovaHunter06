@@ -17,7 +17,7 @@
 
 ###
 
-<div data-importer="image" align="center">
+<div data-importer="image" align="right">
   <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3R1MWp5cGs0MjNnajVzNmJybzJ0bXoyb3RyeW05YnoxOTljNDAxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif"  />
 </div>
 
