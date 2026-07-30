@@ -169,7 +169,7 @@
 <td align="center">
 
 ### ⭐
-**VINCE**
+**Swedish Institute of Space Physics**
 
 Responsible Disclosure
 
