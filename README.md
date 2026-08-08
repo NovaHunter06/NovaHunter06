@@ -12,10 +12,9 @@
 </div>
 
 ###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="400" src=" https://pin.it/75hRHTr36 " />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjYxZnoyeThsdTBoMGpzM2Jnem04MWNwb2ZqNnkzNzVtdmwzaGVvZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AeHLxU7TZXCPS/giphy.gif" width="800" alt="GIF">
+</p>
 
 ###
 
