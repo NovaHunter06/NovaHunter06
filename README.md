@@ -14,7 +14,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3R1MWp5cGs0MjNnajVzNmJybzJ0bXoyb3RyeW05YnoxOTljNDAxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif"  />
+  <img data-importer="image" height="400" src=" https://pin.it/75hRHTr36 " />
 </div>
 
 ###
