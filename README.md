@@ -97,8 +97,8 @@
 ###
 <div align="center">
   <img
-    height="500"
-    width="500"
+    height="300"
+    width="700"
     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGsxbml6cDJ2bGFqYWF1cGFyN2YyaHFuenIwMWFva2c3NHZxOHl6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u455vzdYHYXvLGw/giphy.gif"
   />
 </div>
